@@ -65,13 +65,19 @@ nav ul li a{
 
 }
 
+.quadro{
+    background-color: #05254f77;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
 
 /* ===== HEADER ===== */
 
 header{
 
     /* Imagem de fundo */
-    background:url("https://picsum.photos/1200/400");
+    background:url("chaveCasa.jpg");
 
     /* Ajusta a imagem para cobrir todo o espaço */
     background-size:cover;
